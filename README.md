@@ -82,7 +82,7 @@
       }
       .cube:hover .back {
         background: rgb(97, 12, 146);
-        transform: rotateY(180deg) translateZ(-250px) translateY(-100px)translateX( 100px);
+        transform: rotateY(180deg) translateZ(-255px) translateY(-100px)translateX( 100px);
       }
       img {
         width: 100%;
